@@ -1,0 +1,27 @@
+<student>
+    	<first name>John</first name>
+    	<last name>Smith</last name>
+    	<email>john@aol.com</email>
+    	<netID>js101</netID>
+    	<course list>
+    		<course>
+    			<course id>Test651</course id>
+    			<professor>
+    				<first name>Test</first name>
+    				<last name>Professor</last name>
+    				<email>Test@aol.com</email>
+    				<netID>Test101</netID>
+    			</professor>
+    			<attendance records>
+    				<record>
+    					<date>Thu Dec 22 00:00:00 EST 2022</date>
+    					<attendance>Absent</attendance>
+    				</record>
+    				<record>
+    					<date>Thu Oct 21 00:00:00 EDT 1999</date>
+    					<attendance>Tardy</attendance>
+    				</record>
+    			</attendance records>
+    		</course>
+    	</course list>
+    </student>

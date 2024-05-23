@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="ANALYZE_TEST_SOURCES" value="false" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="07b24fb4-a889-4ac4-a136-10aff7c29a15" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.persistentDataEncrypted.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/.persistentDataEncrypted.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/resources/CryptoTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/resources/CryptoTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/resources/academicEnrollmentTestOutput.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/resources/academicEnrollmentTestOutput.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="dev" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLabMergeRequestsSettings">{}</component>
+  <component name="GithubPullRequestsUISettings">{}</component>
+  <component name="KubernetesApiProvider">{}</component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2e7eLs72FNnRyBWsiKyPnu0X6N7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path&quot;: &quot;/home/yz696/ece651/project-team-8/app/build/libs&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;true&quot;,
+    &quot;Gradle.Build project-team-8.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Load Gradle Dependencies.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.project-team-8 [dependencies].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.project-team-8:app [:app:App.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.project-team-8:app [:app:EmailSender.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.project-team-8:app [:app:PeriodicExecutor.main()].executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.AcademicEnrollmentTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.AcademicEnrollmentTest.test_XMLParser.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.AcademicEnrollmentTest.test_XMLRead.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.AcademicEnrollmentTest.test_XMLSerialize.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.AcademicEnrollmentTest.test__.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.AcademicEnrollmentTest.test_loadFakeFile.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.AcademicEnrollmentTest.test_writeAndLoadEncrpyted.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.AcademicEnrollmentV1Test.executor&quot;: &quot;Coverage&quot;,
+    &quot;JUnit.AcademicEnrollmentV1Test.test_XMLRead.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.AcademicEnrollmentV1Test.test_XMLWrite.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.AcademicEnrollmentV1Test.test_writeAndLoadEncrypted2.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.All in project-team-8.app.test (1).executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.All in project-team-8.app.test (2).executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.All in project-team-8.app.test.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.All in project-team-8.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.AppTest.test_main.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.AttendanceTakerTest.test_takeAttendanceAsAttended.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.DatabaseStudentTest.test_getAttendanceRecord.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.DatabaseStudentTest.test_getClasses.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.MySQLDatabaseTest.executor&quot;: &quot;Coverage&quot;,
+    &quot;JUnit.MySQLDatabaseTest.test_EnrollStudentToSchool.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.MySQLDatabaseTest.test_StudentAddAndDropClass.executor&quot;: &quot;Coverage&quot;,
+    &quot;JUnit.MySQLDatabaseTest.test_StudentAndCourseExists.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.MySQLDatabaseTest.test_courseExists.executor&quot;: &quot;Coverage&quot;,
+    &quot;JUnit.MySQLDatabaseTest.test_getUser.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.MySQLDatabaseTest.test_importCourses.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.MySQLDatabaseTest.test_importEnrollment.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.MySQLDatabaseTest.test_importUsers.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.OldEnrollmentListTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.OldEnrollmentListTest.test_getEnrollment1.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.OldEnrollmentListTest.test_serialize.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.OldLectureTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.OldLectureTest.test_modifyAttendance.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.OldLectureTest.test_recordAttendance.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.PeriodicExecutorTest.executor&quot;: &quot;Coverage&quot;,
+    &quot;JUnit.PeriodicExecutorTest.test_main.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.PeriodicExecutorTest.test_main_error.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.PeriodicExecutorTest.test_main_recurrentOnce.executor&quot;: &quot;Coverage&quot;,
+    &quot;JUnit.PeriodicExecutorTest.test_recurrentSend.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.SHA256UtilsTest.executor&quot;: &quot;Coverage&quot;,
+    &quot;JUnit.SHA256UtilsTest.hashPassword.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.SHA256UtilsTest.makeSaltStr.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.StringCryptoUtilAESTest.test_2.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.StringCryptoUtilAESTest.test_XMLSerialize.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.StringCryptoUtilAESTest.test_cycle_consistency.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.StudentTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.StudentTest.test_addClass.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.StudentTest.test_attendanceRecord.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.StudentTest.test_dropClass.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.StudentTest.test_equals.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.StudentTest.test_getEmail.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.StudentTest.test_hashCode.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.StudentTest.test_modifyPreferredName.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.StudentTest.test_requestAccessToClass.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.WeeklyTextSummaryTest.test_name.executor&quot;: &quot;Debug&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;dev&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/ws202/project-team-8&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RdControllerToolWindowsLayoutState" isNewUi="true">
+    <layout>
+      <window_info id="Space Code Reviews" show_stripe_button="false" />
+      <window_info id="Bookmarks" show_stripe_button="false" side_tool="true" />
+      <window_info id="Merge Requests" show_stripe_button="false" />
+      <window_info id="Commit_Guest" show_stripe_button="false" />
+      <window_info id="Pull Requests" show_stripe_button="false" />
+      <window_info id="Learn" show_stripe_button="false" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30026042" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Welcome to GitHub Copilot" order="2" show_stripe_button="false" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Profiler" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TODO" show_stripe_button="false" />
+      <window_info anchor="bottom" id="File Transfer" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" weight="0.3298611" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Run" order="4" weight="0.37708333" />
+      <window_info active="true" anchor="bottom" id="Build" order="5" visible="true" weight="0.3304829" />
+      <window_info anchor="bottom" id="Services" order="6" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.37708333" />
+      <window_info anchor="bottom" id="Find" order="8" weight="0.37708333" />
+      <window_info anchor="right" id="Endpoints" show_stripe_button="false" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.32982045" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.15886027" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="github.copilotToolWindow" order="4" show_stripe_button="false" />
+      <window_info anchor="right" id="GitHub Copilot Chat" order="4" show_stripe_button="false" />
+      <window_info anchor="right" id="Coverage" order="5" side_tool="true" weight="0.32982045" />
+    </layout>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/test/resources" />
+      <recent name="$PROJECT_DIR$/app" />
+      <recent name="$PROJECT_DIR$/app/src" />
+      <recent name="$PROJECT_DIR$/app/src/main/resources" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app" />
+      <recent name="$PROJECT_DIR$/app/src" />
+      <recent name="$PROJECT_DIR$/app/" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="edu.duke.projectTeam8" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.DatabaseStudentTest.test_getAttendanceRecord">
+    <configuration name="All in project-team-8.app.test (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="project-team-8.app.test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DatabaseStudentTest.test_getAttendanceRecord" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="project-team-8.app.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.duke.projectTeam8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.duke.projectTeam8" />
+      <option name="MAIN_CLASS_NAME" value="edu.duke.projectTeam8.DatabaseStudentTest" />
+      <option name="METHOD_NAME" value="test_getAttendanceRecord" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DatabaseStudentTest.test_getClasses" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="project-team-8.app.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.duke.projectTeam8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.duke.projectTeam8" />
+      <option name="MAIN_CLASS_NAME" value="edu.duke.projectTeam8.DatabaseStudentTest" />
+      <option name="METHOD_NAME" value="test_getClasses" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OldLectureTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="project-team-8.app.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.duke.projectTeam8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.duke.projectTeam8" />
+      <option name="MAIN_CLASS_NAME" value="edu.duke.projectTeam8.OldLectureTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WeeklyTextSummaryTest.test_name" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="project-team-8.app.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.duke.projectTeam8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.duke.projectTeam8" />
+      <option name="MAIN_CLASS_NAME" value="edu.duke.projectTeam8.WeeklyTextSummaryTest" />
+      <option name="METHOD_NAME" value="test_name" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.DatabaseStudentTest.test_getAttendanceRecord" />
+      <item itemvalue="JUnit.DatabaseStudentTest.test_getClasses" />
+      <item itemvalue="JUnit.OldLectureTest" />
+      <item itemvalue="JUnit.WeeklyTextSummaryTest.test_name" />
+      <item itemvalue="JUnit.All in project-team-8.app.test (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.DatabaseStudentTest.test_getAttendanceRecord" />
+        <item itemvalue="JUnit.DatabaseStudentTest.test_getClasses" />
+        <item itemvalue="JUnit.WeeklyTextSummaryTest.test_name" />
+        <item itemvalue="JUnit.All in project-team-8.app.test (1)" />
+        <item itemvalue="JUnit.OldLectureTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="07b24fb4-a889-4ac4-a136-10aff7c29a15" name="Changes" comment="" />
+      <created>1711259991625</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711259991625</updated>
+      <workItem from="1711259992582" duration="874000" />
+      <workItem from="1711260989583" duration="1502000" />
+      <workItem from="1711262680618" duration="2394000" />
+      <workItem from="1711489572833" duration="11829000" />
+      <workItem from="1711513283854" duration="9741000" />
+      <workItem from="1711523139715" duration="705000" />
+      <workItem from="1711561493308" duration="1802000" />
+      <workItem from="1711583358620" duration="14056000" />
+      <workItem from="1711597876893" duration="5662000" />
+      <workItem from="1711604739513" duration="6298000" />
+      <workItem from="1711611102485" duration="1246000" />
+      <workItem from="1711612375745" duration="1953000" />
+      <workItem from="1712091778497" duration="903000" />
+      <workItem from="1712106853685" duration="1496000" />
+      <workItem from="1712108622513" duration="307000" />
+      <workItem from="1712109442146" duration="3470000" />
+      <workItem from="1714067624630" duration="9213000" />
+      <workItem from="1714329941773" duration="617000" />
+      <workItem from="1714332613489" duration="372000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/edu/duke/projectTeam8/OldStudent.java</url>
+          <line>142</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/project_team_8$SHA256UtilsTest.ic" NAME="SHA256UtilsTest Coverage Results" MODIFIED="1712112880998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>edu.duke.projectTeam8.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/project_team_8$PeriodicExecutorTest.ic" NAME="PeriodicExecutorTest Coverage Results" MODIFIED="1711513531883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>edu.duke.projectTeam8.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/project_team_8$MySQLDatabaseTest_test_StudentAndCourseExists.ic" NAME="MySQLDatabaseTest.test_StudentAndCourseExists Coverage Results" MODIFIED="1714070132617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>edu.duke.projectTeam8.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/project_team_8$PeriodicExecutorTest_test_main_recurrentOnce.ic" NAME="PeriodicExecutorTest.test_main_recurrentOnce Coverage Results" MODIFIED="1711515813168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>edu.duke.projectTeam8.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/project_team_8$All_in_project_team_8_app_test__1_.ic" NAME="All in project-team-8.app.test (1) Coverage Results" MODIFIED="1711614229104" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
+    <SUITE FILE_PATH="coverage/project_team_8$MySQLDatabaseTest_test_StudentAddAndDropClass.ic" NAME="MySQLDatabaseTest.test_StudentAddAndDropClass Coverage Results" MODIFIED="1714070749305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>edu.duke.projectTeam8.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/project_team_8$MySQLDatabaseTest.ic" NAME="MySQLDatabaseTest Coverage Results" MODIFIED="1714071037520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>edu.duke.projectTeam8.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/project_team_8$MySQLDatabaseTest_test_courseExists.ic" NAME="MySQLDatabaseTest.test_courseExists Coverage Results" MODIFIED="1714069813547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>edu.duke.projectTeam8.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/project_team_8$AcademicEnrollmentV1Test.ic" NAME="AcademicEnrollmentV1Test Coverage Results" MODIFIED="1714074072622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>edu.duke.projectTeam8.*</FILTER>
+    </SUITE>
+  </component>
+</project>

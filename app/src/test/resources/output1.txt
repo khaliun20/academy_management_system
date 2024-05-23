@@ -1,0 +1,222 @@
+Please select the task you want to perform:
+1. Manage Existing Courses
+2. Get Enrollment List for New Course
+3. Quit program
+No class to show. Please parse enrollment list first
+Please select the task you want to perform:
+1. Manage Existing Courses
+2. Get Enrollment List for New Course
+3. Quit program
+Please enter path to the enrollment list file.
+Congrats! You have finished parsing enrollment list for course: MATH502
+Please select the task you want to perform:
+1. Manage Existing Courses
+2. Get Enrollment List for New Course
+3. Quit program
+Please select a course first
+1. MATH502
+Please select from what task you want to complete: 
+1. Manage attendance
+2. Drop student from course
+3. Add student to course
+4. Change student display name
+5. View attendance reports
+Please choose from following options.
+1. Create new attendance sheet for today's lecture
+2. Edit previous lecture attendance sheets
+Created new attendance sheet for Wed Mar 27 23:00:00 EDT 2024 
+Taking attendance for: Bob Brown
+1. Attended
+2. Tardy
+3. Absent
+You marked Bob Brown as Attended
+Taking attendance for: Nick Nguyen
+1. Attended
+2. Tardy
+3. Absent
+You marked Nick Nguyen as Attended
+Taking attendance for: Howard Miller
+1. Attended
+2. Tardy
+3. Absent
+You marked Howard Miller as Attended
+Taking attendance for: Wenxuan Su
+1. Attended
+2. Tardy
+3. Absent
+You marked Wenxuan Su as Attended
+Taking attendance for: Henry Johnson
+1. Attended
+2. Tardy
+3. Absent
+You marked Henry Johnson as Attended
+Taking attendance for: John Doe
+1. Attended
+2. Tardy
+3. Absent
+You marked John Doe as Attended
+Taking attendance for: Mary Williams
+1. Attended
+2. Tardy
+3. Absent
+You marked Mary Williams as Attended
+Taking attendance for: Stephanie Moore
+1. Attended
+2. Tardy
+3. Absent
+You marked Stephanie Moore as Attended
+You have finished taking attendance for course: MATH502, Lecture: Wed Mar 27 23:00:00 EDT 2024
+Please select the task you want to perform:
+1. Manage Existing Courses
+2. Get Enrollment List for New Course
+3. Quit program
+Please select a course first
+1. MATH502
+Please select from what task you want to complete: 
+1. Manage attendance
+2. Drop student from course
+3. Add student to course
+4. Change student display name
+5. View attendance reports
+Please choose from following options.
+1. Create new attendance sheet for today's lecture
+2. Edit previous lecture attendance sheets
+Created new attendance sheet for Wed Mar 27 23:00:00 EDT 2024 
+Taking attendance for: Bob Brown
+1. Attended
+2. Tardy
+3. Absent
+You marked Bob Brown as Tardy
+Taking attendance for: Nick Nguyen
+1. Attended
+2. Tardy
+3. Absent
+You marked Nick Nguyen as Tardy
+Taking attendance for: Howard Miller
+1. Attended
+2. Tardy
+3. Absent
+You marked Howard Miller as Absent
+Taking attendance for: Wenxuan Su
+1. Attended
+2. Tardy
+3. Absent
+You marked Wenxuan Su as Absent
+Taking attendance for: Henry Johnson
+1. Attended
+2. Tardy
+3. Absent
+You marked Henry Johnson as Attended
+Taking attendance for: John Doe
+1. Attended
+2. Tardy
+3. Absent
+You marked John Doe as Attended
+Taking attendance for: Mary Williams
+1. Attended
+2. Tardy
+3. Absent
+You marked Mary Williams as Attended
+Taking attendance for: Stephanie Moore
+1. Attended
+2. Tardy
+3. Absent
+You marked Stephanie Moore as Attended
+You have finished taking attendance for course: MATH502, Lecture: Wed Mar 27 23:00:00 EDT 2024
+Please select the task you want to perform:
+1. Manage Existing Courses
+2. Get Enrollment List for New Course
+3. Quit program
+Invalid Selection. Please choose againPlease select a course first
+1. MATH502
+Please select from what task you want to complete: 
+1. Manage attendance
+2. Drop student from course
+3. Add student to course
+4. Change student display name
+5. View attendance reports
+Choose the attendance sheet you want to view.
+Attendance sheets from previous lectures: 
+1. Attandance Sheet Date: Wed Mar 27 23:00:00 EDT 2024
+2. Attandance Sheet Date: Wed Mar 27 23:00:00 EDT 2024
+Attendance record for lecture on: Wed Mar 27 23:00:00 EDT 2024
+
+Bob Brown: Attended
+Nick Nguyen: Attended
+Howard Miller: Attended
+Wenxuan Su: Attended
+Henry Johnson: Attended
+John Doe: Attended
+Mary Williams: Attended
+Stephanie Moore: Attended
+
+Please select the task you want to perform:
+1. Manage Existing Courses
+2. Get Enrollment List for New Course
+3. Quit program
+Please select a course first
+1. MATH502
+Please select from what task you want to complete: 
+1. Manage attendance
+2. Drop student from course
+3. Add student to course
+4. Change student display name
+5. View attendance reports
+Please enter the netid of the student's preferred name you want to change: 
+You are about to change John Doe's name
+Please enter the preferred name: 
+You have changed student's name to Johnny Doe
+Please select the task you want to perform:
+1. Manage Existing Courses
+2. Get Enrollment List for New Course
+3. Quit program
+Please select a course first
+1. MATH502
+Please select from what task you want to complete: 
+1. Manage attendance
+2. Drop student from course
+3. Add student to course
+4. Change student display name
+5. View attendance reports
+Please enter the netID of the student you want to change the enrollment status for: MATH502
+This student is not registered with the school or this is not a valid netid. Feel out the form below:
+
+Please enter the netID of the student you want to change the enrollment status for, in the following format: xx000 MATH502
+Please enter the name of the student, in the following format: John 
+Please enter the last name of the student, in the following format: Doe 
+Please enter the email of the student, in the following format: xxxx@xxx.xxx 
+You successfully added student Wenxuan Suto MATH502
+Please select the task you want to perform:
+1. Manage Existing Courses
+2. Get Enrollment List for New Course
+3. Quit program
+Please select a course first
+1. MATH502
+Please select from what task you want to complete: 
+1. Manage attendance
+2. Drop student from course
+3. Add student to course
+4. Change student display name
+5. View attendance reports
+Please enter the netID of the student you want to change the enrollment status for: MATH502
+This student is not registered with the school or this is not a valid netid. Feel out the form below:
+
+Please enter the netID of the student you want to change the enrollment status for, in the following format: xx000 MATH502
+Please enter a valid netID, in the following format: xx000
+Please enter the name of the student, in the following format: John 
+Please enter the last name of the student, in the following format: Doe 
+Please enter the email of the student, in the following format: xxxx@xxx.xxx 
+This student is already enrolled in the course: MATH502
+Please enter the netID of the student you want to change the enrollment status for: MATH502
+This student is not registered with the school or this is not a valid netid. Feel out the form below:
+
+Please enter the netID of the student you want to change the enrollment status for, in the following format: xx000 MATH502
+Please enter the name of the student, in the following format: John 
+Please enter the last name of the student, in the following format: Doe 
+Please enter the email of the student, in the following format: xxxx@xxx.xxx 
+You successfully added student Stark Moto MATH502
+Please select the task you want to perform:
+1. Manage Existing Courses
+2. Get Enrollment List for New Course
+3. Quit program
+Type q to stop the program

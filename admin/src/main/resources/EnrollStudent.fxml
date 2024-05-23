@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Text layoutX="-3.0" layoutY="36.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Enroll Student in Course" textAlignment="CENTER" wrappingWidth="606.44287109375">
+         <font>
+            <Font name="System Bold" size="24.0" />
+         </font>
+      </Text>
+      <Text layoutY="91.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Please enter a valid Student Net ID and a Valid Course ID" textAlignment="CENTER" wrappingWidth="600.0">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Text>
+      <TextField fx:id="netIDField" layoutX="215.0" layoutY="134.0" promptText="Student Net ID" />
+      <TextField fx:id="courseIDField" layoutX="215.0" layoutY="200.0" promptText="Course ID" />
+      <Button layoutX="273.0" layoutY="269.0" mnemonicParsing="false" onAction="#enrollStudent" text="Enroll" />
+      <Button layoutX="56.0" layoutY="335.0" mnemonicParsing="false" onAction="#goBackToMainMenu" text="Go Back" />
+   </children>
+</AnchorPane>

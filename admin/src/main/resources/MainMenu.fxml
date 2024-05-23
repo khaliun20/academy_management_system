@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="502.0" prefWidth="602.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Text layoutY="36.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Main Menu" textAlignment="CENTER" wrappingWidth="600.0">
+         <font>
+            <Font name="System Bold" size="24.0" />
+         </font>
+      </Text>
+      <Text layoutY="84.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Select what you would like to do:" textAlignment="CENTER" wrappingWidth="600.0">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Text>
+      <GridPane layoutX="71.0" layoutY="111.0" prefHeight="352.0" prefWidth="459.0">
+        <columnConstraints>
+          <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+          <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+        </columnConstraints>
+        <rowConstraints>
+          <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+          <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+          <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+        </rowConstraints>
+         <children>
+            <Button mnemonicParsing="false" onAction="#importSchoolList" prefHeight="169.0" prefWidth="260.0" text="Import School List" />
+            <Button mnemonicParsing="false" onAction="#importCourseList" prefHeight="211.0" prefWidth="283.0" text="Import Course List" GridPane.columnIndex="1" />
+            <Button mnemonicParsing="false" onAction="#importEnrollmentList" prefHeight="195.0" prefWidth="288.0" text="Import Enrollment List" GridPane.rowIndex="1" />
+            <Button mnemonicParsing="false" onAction="#enrollStudentMenu" prefHeight="200.0" prefWidth="295.0" text="Add Student to Course" GridPane.columnIndex="1" GridPane.rowIndex="1" />
+            <Button fx:id="addNewStudentButton" mnemonicParsing="false" onAction="#addStudentMenu" prefHeight="196.0" prefWidth="319.0" text="Add New Student/Faculty" GridPane.rowIndex="2" />
+            <Button mnemonicParsing="false" onAction="#dropStudentMenu" prefHeight="171.0" prefWidth="305.0" text="Drop Student" GridPane.columnIndex="1" GridPane.rowIndex="2" />
+            <Button mnemonicParsing="false" onAction="#addCourseMenu" prefHeight="185.0" prefWidth="327.0" text="Add New Course" GridPane.rowIndex="3" />
+            <Button mnemonicParsing="false" onAction="#cleanDatabase" prefHeight="189.0" prefWidth="301.0" text="Clear Database" GridPane.columnIndex="1" GridPane.rowIndex="3" />
+         </children>
+      </GridPane>
+   </children>
+</AnchorPane>

@@ -1,0 +1,186 @@
+<enrollment>
+	<student>
+		<first name>Sam</first name>
+		<last name>Smith</last name>
+		<email>km632@duke.edu</email>
+		<netID>km632</netID>
+		<course list>
+			<course>
+				<course id>ECE651-001</course id>
+				<enrollment status>true</enrollment status>
+				<professor>
+					<first name>Joe</first name>
+					<last name>Biden</last name>
+					<email>Test@aol.com</email>
+					<netID>Test101</netID>
+				</professor>
+				<attendance records>
+					<record>
+						<date>Wed Mar 27 21:47:53 EDT 2024</date>
+						<attendance>Attended</attendance>
+					</record>
+				</attendance records>
+			</course>
+		</course list>
+	</student>
+	<student>
+		<first name>hulan</first name>
+		<last name>munkhuu</last name>
+		<email>km65@duke.edu</email>
+		<netID>km621</netID>
+		<course list>
+			<course>
+				<course id>ECE651-001</course id>
+				<enrollment status>true</enrollment status>
+				<professor>
+					<first name>Joe</first name>
+					<last name>Biden</last name>
+					<email>Test@aol.com</email>
+					<netID>Test101</netID>
+				</professor>
+				<attendance records>
+					<record>
+						<date>Wed Mar 27 21:47:53 EDT 2024</date>
+						<attendance>Tardy</attendance>
+					</record>
+				</attendance records>
+			</course>
+		</course list>
+	</student>
+	<student>
+		<first name>Howard</first name>
+		<last name>Miller</last name>
+		<email>hm101@duke.edu</email>
+		<netID>hm101</netID>
+		<course list>
+			<course>
+				<course id>ECE651-001</course id>
+				<enrollment status>true</enrollment status>
+				<professor>
+					<first name>Joe</first name>
+					<last name>Biden</last name>
+					<email>Test@aol.com</email>
+					<netID>Test101</netID>
+				</professor>
+				<attendance records>
+					<record>
+						<date>Wed Mar 27 21:47:53 EDT 2024</date>
+						<attendance>Absent</attendance>
+					</record>
+					<record>
+						<date>Wed Mar 27 21:46:30 EDT 2024</date>
+						<attendance>Tardy</attendance>
+					</record>
+				</attendance records>
+			</course>
+		</course list>
+	</student>
+	<student>
+		<first name>John</first name>
+		<last name>Doe</last name>
+		<email>ws202@duke.edu</email>
+		<netID>ws202</netID>
+		<course list>
+			<course>
+				<course id>ECE651-001</course id>
+				<enrollment status>true</enrollment status>
+				<professor>
+					<first name>Joe</first name>
+					<last name>Biden</last name>
+					<email>Test@aol.com</email>
+					<netID>Test101</netID>
+				</professor>
+				<attendance records>
+					<record>
+						<date>Wed Mar 27 21:47:53 EDT 2024</date>
+						<attendance>Attended</attendance>
+					</record>
+					<record>
+						<date>Wed Mar 27 21:46:30 EDT 2024</date>
+						<attendance>Absent</attendance>
+					</record>
+				</attendance records>
+			</course>
+		</course list>
+	</student>
+	<student>
+		<first name>Henry</first name>
+		<last name>Johnson</last name>
+		<email>hj101@duke.edu</email>
+		<netID>hj101</netID>
+		<course list>
+			<course>
+				<course id>ECE651-001</course id>
+				<enrollment status>false</enrollment status>
+				<professor>
+					<first name>Joe</first name>
+					<last name>Biden</last name>
+					<email>Test@aol.com</email>
+					<netID>Test101</netID>
+				</professor>
+				<attendance records>
+					<record>
+						<date>Wed Mar 27 21:46:30 EDT 2024</date>
+						<attendance>Attended</attendance>
+					</record>
+				</attendance records>
+			</course>
+		</course list>
+	</student>
+	<student>
+		<first name>Mary</first name>
+		<last name>Williams</last name>
+		<email>mw101@duke.edu</email>
+		<netID>mw101</netID>
+		<course list>
+			<course>
+				<course id>ECE651-001</course id>
+				<enrollment status>true</enrollment status>
+				<professor>
+					<first name>Joe</first name>
+					<last name>Biden</last name>
+					<email>Test@aol.com</email>
+					<netID>Test101</netID>
+				</professor>
+				<attendance records>
+					<record>
+						<date>Wed Mar 27 21:47:53 EDT 2024</date>
+						<attendance>Attended</attendance>
+					</record>
+					<record>
+						<date>Wed Mar 27 21:46:30 EDT 2024</date>
+						<attendance>Attended</attendance>
+					</record>
+				</attendance records>
+			</course>
+		</course list>
+	</student>
+	<student>
+		<first name>Stephanie</first name>
+		<last name>Moore</last name>
+		<email>sm101@duke.edu</email>
+		<netID>sm101</netID>
+		<course list>
+			<course>
+				<course id>ECE651-001</course id>
+				<enrollment status>true</enrollment status>
+				<professor>
+					<first name>Joe</first name>
+					<last name>Biden</last name>
+					<email>Test@aol.com</email>
+					<netID>Test101</netID>
+				</professor>
+				<attendance records>
+					<record>
+						<date>Wed Mar 27 21:47:53 EDT 2024</date>
+						<attendance>Attended</attendance>
+					</record>
+					<record>
+						<date>Wed Mar 27 21:46:30 EDT 2024</date>
+						<attendance>Attended</attendance>
+					</record>
+				</attendance records>
+			</course>
+		</course list>
+	</student>
+</enrollment>

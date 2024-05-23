@@ -1,0 +1,263 @@
+Please select the task you want to perform:
+1. Manage Existing Courses
+2. Get Enrollment List for New Course
+3. Quit program
+Invalid Selection. Please choose againInvalid input. Please enter a valid integer.
+Please enter path to the enrollment list file.
+Congrats! You have finished parsing enrollment list for course: ECE651-001
+Please select the task you want to perform:
+1. Manage Existing Courses
+2. Get Enrollment List for New Course
+3. Quit program
+Please select a course first
+1. ECE651-001
+Please select from what task you want to complete: 
+1. Manage attendance
+2. Drop student from course
+3. Add student to course
+4. Change student display name
+5. View attendance reports
+Please choose from following options.
+1. Create new attendance sheet for today's lecture
+2. Edit previous lecture attendance sheets
+Created new attendance sheet for Thu Mar 28 03:00:00 EDT 2024 
+Taking attendance for: Sam Smith
+1. Attended
+2. Tardy
+3. Absent
+You marked Sam Smith as Attended
+Taking attendance for: Howard Miller
+1. Attended
+2. Tardy
+3. Absent
+You marked Howard Miller as Tardy
+Taking attendance for: John Doe
+1. Attended
+2. Tardy
+3. Absent
+You marked John Doe as Absent
+Taking attendance for: Henry Johnson
+1. Attended
+2. Tardy
+3. Absent
+You marked Henry Johnson as Attended
+Taking attendance for: Mary Williams
+1. Attended
+2. Tardy
+3. Absent
+You marked Mary Williams as Attended
+Taking attendance for: Stephanie Moore
+1. Attended
+2. Tardy
+3. Absent
+You marked Stephanie Moore as Attended
+You have finished taking attendance for course: ECE651-001, Lecture: Thu Mar 28 03:00:00 EDT 2024
+Please select the task you want to perform:
+1. Manage Existing Courses
+2. Get Enrollment List for New Course
+3. Quit program
+Please select a course first
+1. ECE651-001
+Please select from what task you want to complete: 
+1. Manage attendance
+2. Drop student from course
+3. Add student to course
+4. Change student display name
+5. View attendance reports
+Please enter the netID of the student you want to change the enrollment status for: ECE651-001
+You successfully dropped Sam Smith from course: ECE651-001
+Please select the task you want to perform:
+1. Manage Existing Courses
+2. Get Enrollment List for New Course
+3. Quit program
+Please select a course first
+1. ECE651-001
+Please select from what task you want to complete: 
+1. Manage attendance
+2. Drop student from course
+3. Add student to course
+4. Change student display name
+5. View attendance reports
+Please enter the netID of the student you want to change the enrollment status for: ECE651-001
+There is no record of a student with netID: km652
+You successfully dropped Henry Johnson from course: ECE651-001
+Please select the task you want to perform:
+1. Manage Existing Courses
+2. Get Enrollment List for New Course
+3. Quit program
+Please select a course first
+1. ECE651-001
+Please select from what task you want to complete: 
+1. Manage attendance
+2. Drop student from course
+3. Add student to course
+4. Change student display name
+5. View attendance reports
+Please enter the netID of the student you want to change the enrollment status for: ECE651-001
+You successfully added student Sam Smithto ECE651-001
+Please select the task you want to perform:
+1. Manage Existing Courses
+2. Get Enrollment List for New Course
+3. Quit program
+Please select a course first
+1. ECE651-001
+Please select from what task you want to complete: 
+1. Manage attendance
+2. Drop student from course
+3. Add student to course
+4. Change student display name
+5. View attendance reports
+Please enter the netID of the student you want to change the enrollment status for: ECE651-001
+This student is not registered with the school or this is not a valid netid. Feel out the form below:
+
+Please enter the netID of the student you want to change the enrollment status for, in the following format: xx000 ECE651-001
+Please enter a valid netID, in the following format: xx000
+Please enter the name of the student, in the following format: John 
+Please enter a valid name, in the following format: John
+Please enter the last name of the student, in the following format: Doe 
+Please enter a valid name, in the following format: Doe
+Please enter the email of the student, in the following format: xxxx@xxx.xxx 
+You successfully added student hulan munkhuuto ECE651-001
+Please select the task you want to perform:
+1. Manage Existing Courses
+2. Get Enrollment List for New Course
+3. Quit program
+Please select a course first
+1. ECE651-001
+Please select from what task you want to complete: 
+1. Manage attendance
+2. Drop student from course
+3. Add student to course
+4. Change student display name
+5. View attendance reports
+Please choose from following options.
+1. Create new attendance sheet for today's lecture
+2. Edit previous lecture attendance sheets
+Created new attendance sheet for Thu Mar 28 03:00:00 EDT 2024 
+Taking attendance for: Sam Smith
+1. Attended
+2. Tardy
+3. Absent
+You marked Sam Smith as Attended
+Taking attendance for: hulan munkhuu
+1. Attended
+2. Tardy
+3. Absent
+You marked hulan munkhuu as Tardy
+Taking attendance for: Howard Miller
+1. Attended
+2. Tardy
+3. Absent
+You marked Howard Miller as Absent
+Taking attendance for: John Doe
+1. Attended
+2. Tardy
+3. Absent
+You marked John Doe as Attended
+Taking attendance for: Mary Williams
+1. Attended
+2. Tardy
+3. Absent
+You marked Mary Williams as Attended
+Taking attendance for: Stephanie Moore
+1. Attended
+2. Tardy
+3. Absent
+You marked Stephanie Moore as Attended
+You have finished taking attendance for course: ECE651-001, Lecture: Thu Mar 28 03:00:00 EDT 2024
+Please select the task you want to perform:
+1. Manage Existing Courses
+2. Get Enrollment List for New Course
+3. Quit program
+Please select a course first
+1. ECE651-001
+Please select from what task you want to complete: 
+1. Manage attendance
+2. Drop student from course
+3. Add student to course
+4. Change student display name
+5. View attendance reports
+Please enter the netid of the student's preferred name you want to change: 
+You are about to change Sam Smith's name
+Please enter the preferred name: 
+You have changed student's name to gyhan Smith
+Please select the task you want to perform:
+1. Manage Existing Courses
+2. Get Enrollment List for New Course
+3. Quit program
+Please select a course first
+1. ECE651-001
+Please select from what task you want to complete: 
+1. Manage attendance
+2. Drop student from course
+3. Add student to course
+4. Change student display name
+5. View attendance reports
+Choose the attendance sheet you want to view.
+Attendance sheets from previous lectures: 
+1. Attandance Sheet Date: Thu Mar 28 03:00:00 EDT 2024
+2. Attandance Sheet Date: Thu Mar 28 03:00:00 EDT 2024
+Attendance record for lecture on: Thu Mar 28 03:00:00 EDT 2024
+
+gyhan Smith: Attended
+Howard Miller: Tardy
+John Doe: Absent
+Henry Johnson: Attended
+Mary Williams: Attended
+Stephanie Moore: Attended
+
+Please select the task you want to perform:
+1. Manage Existing Courses
+2. Get Enrollment List for New Course
+3. Quit program
+Please select a course first
+1. ECE651-001
+Please select from what task you want to complete: 
+1. Manage attendance
+2. Drop student from course
+3. Add student to course
+4. Change student display name
+5. View attendance reports
+Choose the attendance sheet you want to view.
+Attendance sheets from previous lectures: 
+1. Attandance Sheet Date: Thu Mar 28 03:00:00 EDT 2024
+2. Attandance Sheet Date: Thu Mar 28 03:00:00 EDT 2024
+Attendance record for lecture on: Thu Mar 28 03:00:00 EDT 2024
+
+gyhan Smith: Attended
+hulan munkhuu: Tardy
+Howard Miller: Absent
+John Doe: Attended
+Mary Williams: Attended
+Stephanie Moore: Attended
+
+Please select the task you want to perform:
+1. Manage Existing Courses
+2. Get Enrollment List for New Course
+3. Quit program
+Please select a course first
+1. ECE651-001
+Please select from what task you want to complete: 
+1. Manage attendance
+2. Drop student from course
+3. Add student to course
+4. Change student display name
+5. View attendance reports
+Choose the attendance sheet you want to view.
+Attendance sheets from previous lectures: 
+1. Attandance Sheet Date: Thu Mar 28 03:00:00 EDT 2024
+2. Attandance Sheet Date: Thu Mar 28 03:00:00 EDT 2024
+Attendance record for lecture on: Thu Mar 28 03:00:00 EDT 2024
+
+gyhan Smith: Attended
+Howard Miller: Tardy
+John Doe: Absent
+Henry Johnson: Attended
+Mary Williams: Attended
+Stephanie Moore: Attended
+
+Please select the task you want to perform:
+1. Manage Existing Courses
+2. Get Enrollment List for New Course
+3. Quit program
+Type q to stop the program

@@ -1,0 +1,13 @@
+.styled-button {
+    -fx-background-color: #4CAF50; /* Green background */
+    -fx-text-fill: white; /* White text color */
+    -fx-font-size: 14px; /* Font size */
+    -fx-padding: 8px 16px; /* Padding */
+    -fx-border-radius: 5px; /* Border radius */
+    -fx-border-color: #4CAF50; /* Border color */
+}
+
+.styled-button:hover {
+    -fx-background-color: #45a049; /* Darker green background on hover */
+}
+

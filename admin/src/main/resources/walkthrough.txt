@@ -1,0 +1,26 @@
+1. Parse School List
+    -importUsers(path)
+2. Parse Course List
+    -importCourses(path)
+3. Parse Enrollment
+    -importEnrollment(path)
+4. Add Student to Course
+    -checkCourseExist
+        -checkStudentExistInSchool
+            -checkStudentInClassForEnroll
+                -enrollStudentInClass
+5. Enroll Student to School
+    -checkStudentNotExistInSchool
+        -enterInfo
+            -enrollStudentToSchool
+6. Drop Student
+    -checkCourseExist
+        -checkStudentExist
+            -checkStatus
+                -dropStudent
+
+
+
+
+
+NOTE: It must follow the order 1-2-3. Don't think we have time for more exception handling on that
