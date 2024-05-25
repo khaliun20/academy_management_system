@@ -23,4 +23,4 @@ This project was done with my three other teammates. I took charge of the follow
 1. Design and implement the client/server architecture
 2. Design and implement the client/server communication protocol 
 3. Model and View of the server side MVC architecture
-4. I also took part in the overall model design process! 
+4. I also took part in the overall design processes for our models! 
