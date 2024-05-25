@@ -16,17 +16,11 @@ The last module is the server module which was built modeling the MVC architectu
 
 Tech Used: Java, JDBC, TCP server/client sockets, JavaFX, MySQL, Gradle, Clover, CI/CD, VMs for doployment
 
-
-## How to Build/Run
-
-To run the admin GUI: 
-
-
-
-## Example Views 
-
-## Testing
-
 ## Contributions
 
-This project was 
+This project was done with my three other teammates. I took charge of the following! 
+
+1. Design and implement the client/server architecture
+2. Design and implement the client/server communication protocol 
+3. Model and View of the server side MVC architecture
+4. I also took part in the overall model design process! 
