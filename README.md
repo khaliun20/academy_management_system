@@ -14,7 +14,7 @@ The project is made up of three independent modules (admin, server, client) thou
 
   3. The last module is the server module which was built modeling the MVC architecture. Clients connect to the server using TCP sockets communicate and indirectly interact with the database. For security purposes, the client sends request to update or view the database and the server processes requests by connecting with the database.  
 
-Tech Used: Java, JDBC, TCP server/client sockets, JavaFX, MySQL, Gradle, Clover, CI/CD, VMs for doployment
+Tech Used: Java, JDBC, TCP server/client sockets, JavaFX, MySQL, Gradle, Clover, CI/CD, Docker, VM for deployment
 
 ## Contributions
 
